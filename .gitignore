@@ -1,0 +1,19 @@
+# Gradle
+**.gradle/
+
+
+# Кэш IntelliJ IDEA
+.idea/
+*.iml
+
+# Кэш Eclipse
+.classpath
+.project
+.settings/
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
